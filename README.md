@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/subham-mandal-215383343"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="46" /></a>
   <a href="https://leetcode.com/u/Subham_Mandal_2006"><img src="assets/btn-leetcode.svg" alt="LeetCode" height="46" /></a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_ID"><img src="assets/btn-codechef.svg" alt="CodeChef" height="46" /></a>
+  <a href="https://www.codechef.com/users/subham_mandal"><img src="assets/btn-codechef.svg" alt="CodeChef" height="46" /></a>
   <a href="https://deep-shield-project.vercel.app"><img src="assets/btn-live.svg" alt="DeepShield live demo" height="46" /></a>
 </p>
 
